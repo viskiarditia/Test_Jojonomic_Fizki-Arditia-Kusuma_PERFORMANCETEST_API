@@ -17,5 +17,6 @@ To run this automation testing project, please follow the steps below:
    `$ git clone https://github.com/viskiarditia/Test_Jojonomic_Fizki-Arditia-Kusuma_PERFORMANCETEST_API/`
 2. Open the project JMX file in JMeter.
 3. Click on the "Start" button in JMeter to initiate the automation testing.
+    `$ File csv attached. `
 
 Happy testing!
