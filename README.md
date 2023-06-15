@@ -14,9 +14,9 @@ In addition to our forecast accuracy, we also provide current weather observatio
 To run this automation testing project, please follow the steps below:
 
 1. Clone the repository to your local machine:
-   `$ git clone https://github.com/viskiarditia/Test_Jojonomic_Fizki-Arditia-Kusuma_PERFORMANCETEST_API/`
+   $`git clone https://github.com/viskiarditia/Test_Jojonomic_Fizki-Arditia-Kusuma_PERFORMANCETEST_API/`
 2. Open the project JMX file in JMeter.
 3. Click on the "Start" button in JMeter to initiate the automation testing.
-    `$ File csv attached. `
+    $`File csv attached. `
 
 Happy testing!
