@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686837196124,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,862,0,1,1,null,0,0,0
+1686837196124,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,862,0,1,1,null,0,0,0
+1686837196125,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,253,0,1,1,null,0,0,0
+1686837196230,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,862,0,1,1,null,0,0,0
+1686837196230,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,862,0,1,1,null,0,0,0
+1686837196230,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,252,0,1,1,null,0,0,0
+1686837196329,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,862,0,1,1,null,0,0,0
+1686837196329,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,862,0,1,1,null,0,0,0
+1686837196329,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,253,0,1,1,null,0,0,0
+1686837196429,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,862,0,1,1,null,0,0,0
+1686837196429,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,862,0,1,1,null,0,0,0
+1686837196429,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,253,0,1,1,null,0,0,0
+1686837196529,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,862,0,1,1,null,0,0,0
+1686837196529,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,862,0,1,1,null,0,0,0
+1686837196529,0,Debug Sampler,200,OK,Thread Group 1-5,text,true,,253,0,1,1,null,0,0,0
+1686837196629,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,862,0,1,1,null,0,0,0
+1686837196630,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,862,0,1,1,null,0,0,0
+1686837196630,0,Debug Sampler,200,OK,Thread Group 1-6,text,true,,253,0,1,1,null,0,0,0
+1686837196728,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,862,0,1,1,null,0,0,0
+1686837196729,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,862,0,1,1,null,0,0,0
+1686837196729,0,Debug Sampler,200,OK,Thread Group 1-7,text,true,,253,0,1,1,null,0,0,0
+1686837196825,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,862,0,1,1,null,0,0,0
+1686837196825,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,862,0,1,1,null,0,0,0
+1686837196825,0,Debug Sampler,200,OK,Thread Group 1-8,text,true,,253,0,1,1,null,0,0,0
+1686837196929,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,862,0,1,1,null,0,0,0
+1686837196929,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,862,0,1,1,null,0,0,0
+1686837196929,0,Debug Sampler,200,OK,Thread Group 1-9,text,true,,253,0,1,1,null,0,0,0
+1686837197026,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,862,0,1,1,null,0,0,0
+1686837197026,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,862,0,1,1,null,0,0,0
+1686837197026,0,Debug Sampler,200,OK,Thread Group 1-10,text,true,,252,0,1,1,null,0,0,0
